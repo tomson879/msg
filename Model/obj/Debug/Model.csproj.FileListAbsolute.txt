@@ -1,0 +1,11 @@
+D:\Project\Trade_Message\Trade_Message v2\Trade_Msg\Model\bin\Debug\Model.dll
+D:\Project\Trade_Message\Trade_Message v2\Trade_Msg\Model\bin\Debug\Model.pdb
+D:\Project\Trade_Message\Trade_Message v2\Trade_Msg\Model\obj\Debug\Model.dll
+D:\Project\Trade_Message\Trade_Message v2\Trade_Msg\Model\obj\Debug\Model.pdb
+\\192.168.0.73\Project\Trade_Message\Trade_Message v2\Trade_Msg\Model\bin\Debug\Model.dll
+\\192.168.0.73\Project\Trade_Message\Trade_Message v2\Trade_Msg\Model\bin\Debug\Model.pdb
+\\192.168.0.73\Project\Trade_Message\Trade_Message v2\Trade_Msg\Model\obj\Debug\Model.dll
+\\192.168.0.73\Project\Trade_Message\Trade_Message v2\Trade_Msg\Model\obj\Debug\Model.pdb
+\\192.168.0.73\Project\Trade_Message\Trade_Message v2\Trade_Msg\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Project\Trade_Message\Trade_Message v2\Trade_Msg\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Project\Trade_Message\Trade_Message v2\Trade_Msg\Model\obj\Debug\Model.csproj.AssemblyReference.cache
